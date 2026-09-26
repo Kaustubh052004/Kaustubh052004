@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Kaustubh Sonawane
 
-Welcome to my GitHub! I'm a first-year engineering student passionate about coding, exploring technologies, and building meaningful projects. I'm currently learning **C programming**, and gradually diving into **Data Structures**, **Web Development**, and more.
+Welcome to my GitHub! I'm a third-year engineering student passionate about coding, exploring technologies, and building meaningful projects. I'm currently learning **C programming**, and gradually diving into **Data Structures**, **Web Development**, and more.
 
 ---
 
